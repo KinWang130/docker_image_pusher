@@ -7,4 +7,5 @@
 #langgenius/dify-sandbox:0.2.1
 #nginx:latest
 #ghcr.io/open-webui/open-webui:git-18ae586
-zhayujie/chatgpt-on-wechat
+#zhayujie/chatgpt-on-wechat
+eosphorosai/dbgpt:latest
